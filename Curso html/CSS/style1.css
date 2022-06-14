@@ -1,0 +1,16 @@
+div.for{
+    font-size:4em;
+}
+
+.hija{
+    font-size: 2em;
+}
+.otravez{
+    font-size: .5em;
+}
+
+p.Arial{
+    font-family: arial,Georgia, Times, 'Times New Roman', serif;
+    font-style: italic,normal,unset,initial,inherit,oblique;
+    
+}

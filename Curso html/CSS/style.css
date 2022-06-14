@@ -1,0 +1,21 @@
+
+
+body {
+    background-color: rgb(177, 219, 10);
+    font-size: 130%;
+    
+}
+p.centrado{
+    color:maroon;
+    text-align:center
+}
+h1{
+    color:blueviolet;
+
+}
+h2.red{
+    color:royalblue;
+}
+h2.white{
+    color: deeppink;
+}

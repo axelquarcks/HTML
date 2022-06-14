@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    marigin: 0;
+    padding: 0;;
+}
+body {
+    background-color: gray;
+}
+
+#box {
+    background-color: rgb(149, 0, 255);
+    padding: 10px;
+    border: 15px solid yellowgreen;
+    width: 220;
+    height: 527px;
+    margin-top: 77px;
+    overflow: auto;
+}
+
+#content {
+    background-color: #90EE90;
+    /*green*/
+}
+
+h1 {
+    margin-bottom: 30px;
+}
