@@ -1,22 +1,33 @@
 *{
     box-sizing: border-box;
-    marigin: 0;
-    padding: 0;;
+    margin:0;
 }
 body {
     background-color: gray;
+    
 }
-
+/*
 #box {
     background-color: rgb(149, 0, 255);
     padding: 10px;
     border: 15px solid yellowgreen;
     width: 220;
     height: 527px;
-    margin-top: 77px;
+    margin-top: 7px;
     overflow: auto;
 }
+*/
+#box, #box2{
+    background-color: blue;
+    padding: 10px;
+    width: 300px;
+    height: 50px;
+    overflow: auto;
+    margin-top: 50px;
 
+    box-sizing: border-box;/*especifica el tamaño*/
+}               /*content box*/
+/*Margenes verticales no se suman */
 #content {
     background-color: #90EE90;
     /*green*/
