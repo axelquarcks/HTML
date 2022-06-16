@@ -1,0 +1,33 @@
+#izq{
+    /*background-color: cornflowerblue;*/
+    width: 30%;
+    float: left;
+    background-color: #40E0D0;
+    align-items: center;
+    height: 100vh;
+    float: left;
+}
+
+ul{
+    /*background-color: cornflowerblue;*/
+    width:30% ;
+    float: left;
+    background-color: rgb(177, 208, 24);
+    align-items: center;
+    height: 100vh;
+    
+}
+li{
+    padding: 10px;
+    border: 15px;
+    margin: 15px;
+    float: left;
+    list-style: none;
+    text-align: center;
+    
+}
+
+#der{
+    width: 70%;
+    float: left;
+}
